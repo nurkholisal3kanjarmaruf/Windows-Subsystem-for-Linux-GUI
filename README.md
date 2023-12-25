@@ -1,5 +1,7 @@
 # Windows-Subsystem-for-Linux-GUI
 
+![Alt text](https://learn.microsoft.com/id-id/windows/images/windows-linux-dev-env.png)
+
 ### Setup User
 
 ### What is WSL and Install
