@@ -2,6 +2,19 @@
 
 ### Setup User
 
+### What is WSL and Install
+https://learn.microsoft.com/en-us/windows/wsl/install
+
+### Distro Linux
+https://www.niagahoster.co.id/blog/distro-linux-terbaik/
+
+### Linux Grapick and CLI Desktop Environment
+https://revou.co/kosakata/cli
+https://www.gnome.org/
+https://kde.org/id/
+https://www.xfce.org/
+
+
 ### 1. Upgrade
 sudo apt update 
 sudo apt -y upgrade
