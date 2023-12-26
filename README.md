@@ -103,3 +103,4 @@ xfce4-session
 https://github.com/microsoft/WSL/issues/5406
 https://homanhuang.medium.com/install-ubuntu-on-windows-10-pro-f4bf7d6ebc99
 https://askubuntu.com/questions/1380253/where-is-wsl-located-on-my-computer
+https://learn.microsoft.com/id-id/windows/wsl/basic-commands
