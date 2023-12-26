@@ -101,3 +101,4 @@ xfce4-session
 
 ### If Get Another Problem
 https://github.com/microsoft/WSL/issues/5406
+https://homanhuang.medium.com/install-ubuntu-on-windows-10-pro-f4bf7d6ebc99
