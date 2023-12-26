@@ -51,3 +51,6 @@ firefox &
 ### 7. Optional: run xfce4 desktop
 Change VcXsrv (in Windows) display settings to "One large window" or "Full screen"
 xfce4-session
+
+### If Get Another Problem
+https://github.com/microsoft/WSL/issues/5406
